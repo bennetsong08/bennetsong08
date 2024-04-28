@@ -3,7 +3,14 @@
 
 
 ## 💫 About Me:
-🌱 I’m currently learning **C++ & PyTorch**<br>👨‍💻 All of my projects are available at [bennetsong08.github.io](bennetsong08.github.io)<br>📝 I regularly write articles on [www.veritasnewspaper.org](www.veritasnewspaper.org)<br>📫 How to reach me **bennetsong08@gmail.com**<br>
+- 🌱 I’m currently learning **C++ & PyTorch**
+
+- 👨‍💻 All of my projects are available at **[bennetsong08.github.io](http://bennetsong08.github.io)**
+
+- 📝 I regularly write articles on **[www.veritasnewspaper.org](http://www.veritasnewspaper.org)**
+
+- 📫 How to reach me **bennetsong08@gmail.com**
+
 I'm a high school student from Hong Kong who hopes to major in STEM, and comptuer science in particular. Here, you can find some of my projects that demonstrate my passion for CS. Thanks for visiting!
 
 
