@@ -29,5 +29,3 @@ I'm a high school student from Hong Kong who hopes to major in STEM, and comptue
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=bennetsong08&icon=0&color=0)](https://visitcount.itsvg.in)
