@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🌱 I’m currently learning C++, TensorFlow, and PyTorch<br><br>👨‍💻 All of my projects are available at bennetsong08.github.io<br><br>📫 You can reach me at bennetsong08@gmail.com
+🌱 I’m currently learning C++, TensorFlow, and PyTorch<br><br>👨‍💻 All of my projects are available at [bennetsong08.github.io](url)<br><br>📫 You can reach me at [bennetsong08@gmail.com](url)
 
 
 ## 🌐 Socials:
